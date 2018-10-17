@@ -3,4 +3,4 @@
 
 ![](pacman.jpg)
 
-#We did it, together, we did it together, we did it, we did it, we did it, we did it
+# We did it, together, we did it together, we did it, we did it, we did it, we did it
